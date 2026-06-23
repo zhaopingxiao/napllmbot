@@ -1,0 +1,21 @@
+{
+  "ai": {
+    "api_key": "sk-your-api-key-here",
+    "base_url": "https://api.deepseek.com",
+    "model": "deepseek-v4-pro"
+  },
+  "bot": {
+    "host": "0.0.0.0",
+    "port": 8080,
+    "name": "小灵",
+    "group_id": 1104983768,
+    "max_tool_calls": 10
+  },
+  "web": {
+    "port": 8100,
+    "password": "your-password-here"
+  },
+  "plugins": {
+    "enabled": true
+  }
+}

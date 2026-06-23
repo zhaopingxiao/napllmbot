@@ -1,0 +1,6 @@
+config.json
+__pycache__/
+*.pyc
+messages.json
+scheduled_tasks.json
+do/
